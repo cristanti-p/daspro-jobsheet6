@@ -30,7 +30,7 @@ public class percobaan2Qriscode15 {
             System.out.println("Mendapatkan Diskon 10%");
             if (pilihan_menu == 1) {
                 harga = 14000;
-                System.out.println("Harga Risbowl : " + harga);
+                System.out.println("Harga Ricebowl : " + harga);
             } else if (pilihan_menu == 2) {
                 harga = 3000;
                 System.out.println("Harga Es teh : " + harga);
